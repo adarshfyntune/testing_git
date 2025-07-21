@@ -13,6 +13,8 @@ public class Main {
             System.out.println("Print Data Sucessfully");
             System.out.println("Print Data Sucessfully");
             //changes done
+               System.out.println("Print Data Sucessfully");
+            System.out.println("Print Data Sucessfully");
 
         }
     }
